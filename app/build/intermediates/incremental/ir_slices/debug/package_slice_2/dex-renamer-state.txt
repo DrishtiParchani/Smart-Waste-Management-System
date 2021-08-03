@@ -1,0 +1,4 @@
+#Tue Jan 14 17:36:29 IST 2020
+base.0=C\:\\demo\\Android\\L3\\WasteManagementg\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
